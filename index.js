@@ -4,7 +4,7 @@ console.log("This is index.js");
 //  Initialize the news api url
 
 
-url = 'https://newsapi.org/v2/top-headlines?country=in&apiKey=99149400a53d474eae30d17037008d49';
+url = 'http://newsapi.org/v2/top-headlines?country=in&apiKey=99149400a53d474eae30d17037008d49';
 
 // Grab the news container
 let newsAccordion = document.getElementById('newsAccordion');
